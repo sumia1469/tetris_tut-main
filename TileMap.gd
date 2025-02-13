@@ -70,7 +70,7 @@ var score : int
 const REWARD : int = 100
 var game_running : bool
 
-#tilemap variables
+#tilemap variables 
 var tile_id : int = 0
 var piece_atlas : Vector2i
 var next_piece_atlas : Vector2i
